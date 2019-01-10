@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="steps">Steps</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="error_retrofit">Check your internet connection and try again</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_forward">Next</string>
+    <string name="short_description">Short Description</string>
+    <string name="description">Description</string>
+    <string name="error_back">You are in the first page</string>
+    <string name="error_next">You are in the last page</string>
+    <string name="error_loading_btn">Loading !</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="text_widget">Check the latest \nbaking ingredients now !</string>
+    <string name="empty_view">There\'s no view</string>
+</resources>
